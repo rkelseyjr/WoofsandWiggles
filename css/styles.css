@@ -1,0 +1,125 @@
+@charset "utf-8";
+ CSS Document 
+/*
+- DO NOT DELETE
+-SNHU
+- Modifications made by:  (Robert E. Kelsey Jr.)
+*/
+/* Set HTML5 tags to block for older browsers 
+{article, aside, figure, footer, header, hgroup, main,
+menu, nav, section { display: block; }
+}*/
+
+img  { max-width : 100% ; }
+{ <uniquifier> Use a unique and descriptive class <name
+ weight> Use a value from 100 to 900 ;}
+
+.grandstander-<uniquifier; {
+  font-family: "Grandstander", serif;
+  font-optical-sizing: auto;
+  font-weight: weight (100);
+  font-style: bold;
+}
+.bg-custom {
+  background-color: #8b5e3c;
+}
+.navlink:link {
+
+  font-family: "Grandstander",serif;
+  color: #8b5e3c;
+  font-size: 30px;
+  font-weight: 300;
+  }
+  
+  .navlink:hover {
+  
+  color:#5591F4;
+  
+  }
+  .bg-custom {
+
+    background-color: #5591F4;
+    
+    }
+    .all-browsers {
+      margin: 0;
+      padding: 5px;
+      background-color: #a79b9f;
+    }
+    
+    .all-browsers > h1, .browser {
+      margin: 10px;
+      padding: 5px;
+    }
+    
+    .browser {
+      background: white;
+    }
+    
+    .browser > h2, p {
+      margin: 4px;
+      font-size: 90%;
+    }
+    
+    footer {
+      text-align: center;
+      padding: 3px;
+      background-color: DarkSalmon;
+      color: white;
+    }
+    .footer {
+      text-align: center;
+      padding: 3px;
+      background-color: #a79b9f;
+      color: white;
+    }  
+/*background*/
+.all-browsers/{
+├── css/
+│   ├── bootstrap-grid.css
+│   ├── bootstrap-grid.css.map
+│   ├── bootstrap-grid.min.css
+│   ├── bootstrap-grid.min.css.map
+│   ├── bootstrap-grid.rtl.css
+│   ├── bootstrap-grid.rtl.css.map
+│   ├── bootstrap-grid.rtl.min.css
+│   ├── bootstrap-grid.rtl.min.css.map
+│   ├── bootstrap-reboot.css
+│   ├── bootstrap-reboot.css.map
+│   ├── bootstrap-reboot.min.css
+│   ├── bootstrap-reboot.min.css.map
+│   ├── bootstrap-reboot.rtl.css
+│   ├── bootstrap-reboot.rtl.css.map
+│   ├── bootstrap-reboot.rtl.min.css
+│   ├── bootstrap-reboot.rtl.min.css.map
+│   ├── bootstrap-utilities.css
+│   ├── bootstrap-utilities.css.map
+│   ├── bootstrap-utilities.min.css
+│   ├── bootstrap-utilities.min.css.map
+│   ├── bootstrap-utilities.rtl.css
+│   ├── bootstrap-utilities.rtl.css.map
+│   ├── bootstrap-utilities.rtl.min.css
+│   ├── bootstrap-utilities.rtl.min.css.map
+│   ├── bootstrap.css
+│   ├── bootstrap.css.map
+│   ├── bootstrap.min.css
+│   ├── bootstrap.min.css.map
+│   ├── bootstrap.rtl.css
+│   ├── bootstrap.rtl.css.map
+│   ├── bootstrap.rtl.min.css
+│   └── bootstrap.rtl.min.css.map
+└── js/
+    ├── bootstrap.bundle.js
+    ├── bootstrap.bundle.js.map
+    ├── bootstrap.bundle.min.js
+    ├── bootstrap.bundle.min.js.map
+    ├── bootstrap.esm.js
+    ├── bootstrap.esm.js.map
+    ├── bootstrap.esm.min.js
+    ├── bootstrap.esm.min.js.map
+    ├── bootstrap.js
+    ├── bootstrap.js.map
+    ├── bootstrap.min.js
+    └── bootstrap.min.js.map
+;
+}

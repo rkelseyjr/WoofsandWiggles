@@ -1,0 +1,5 @@
+<div class="gallery">
+  <a target="_blank" href="img_Woofs_and_wiggles_Logo_Color.png" alt="color_logo" width="600" height="400">
+  </a>
+  <div class="desc">Woofs and Wiggles Logo color_logo</div>
+</div>
